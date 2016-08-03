@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+This repo has been incorporated into [dotmatrix](http://github.com/hashrocket/dotmatrix).
+
 # hr
 
 A collection of useful scripts, based loosely on 37signals' sub
